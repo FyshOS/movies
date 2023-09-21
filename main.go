@@ -306,7 +306,7 @@ func (p *player) update(screen *canvas.Image) error {
 
 func main() {
 	if len(os.Args) == 1 {
-		log.Println("Please specify a video file to play (.mp4, .mkv)")
+		log.Println("Please specify a video file to play (e.g. myVid.mp4)")
 		return
 	}
 
