@@ -1,0 +1,7 @@
+[Details]
+Name = "Movies"
+Icon = "Icon.png"
+ID = "com.fyshos.movies"
+
+[LinuxAndBSD]
+Categories = ["Utility"]
